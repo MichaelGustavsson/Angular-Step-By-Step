@@ -1,0 +1,58 @@
+[
+  {
+    "courseId": "1",
+    "duration": "4",
+    "title": "jQuery Introduction",
+    "description": "jQuery simplifies the process of creating powerful Web 2.0 applications that include dynamic content and visual effects. In this course, you learn to apply jQuery as a tool for rapid development of modern, feature-rich websites. You build standards-compliant, responsive web pages with Ajax, design easy-to-use forms, extend jQuery with plugins and improve user experience.",
+    "events": []
+  },
+  {
+    "courseId": "2",
+    "duration": "4",
+    "title": "JavaScript for Modern Web Development",
+    "description": "You gain the knowledge and skills to leverage JavaScript to create modern, interactive websites. Through progressive enhancement, unobtrusive JavaScript and best practices, you enrich a website to optimize user experience and accessibility across multiple devices. This course is designed for those with prior experience using HTML and CSS.",
+    "events": []
+  },
+  {
+    "courseId": "3",
+    "duration": "4",
+    "title": "HTML5 Web Development with CSS3 and JavaScript",
+    "description": "HTML5 empowers web developers to enhance the user experience (UX) across all devices, from legacy desktop browsers to the latest smartphones and tablets. In this course, you will apply best practices and emerging standards for HTML markup, CSS styling and JavaScript programming to upgrade your web applications, improving site performance, accessibility and Search Engine Optimization (SEO) along the way.",
+    "events": []
+  },
+  {
+    "courseId": "4",
+    "duration": "4",
+    "title": "Building Web Applications with AngularJS",
+    "description": "AngularJS provides a comprehensive framework that allows you to develop modern Single Page Applications (SPAs) using your existing HTML and JavaScript skills. In this course you learn how to integrate AngularJS directives and expressions into HTML 5 markup and write AngularJS controllers and services to build a complete, feature-rich Single Page Web Application.",
+    "events": []
+  },
+  {
+    "courseId": "5",
+    "duration": "4",
+    "title": "Building Web Applications with React",
+    "description": "React, also known as React.js or ReactJS, is an open source JavaScript library from Facebook for building modern HTML5 web applications. Developers create high-performance User Interfaces with JSX components targeting a virtual DOM. In this course, you learn to build a complete application harnessing React.",
+    "events": []
+  },
+  {
+    "courseId": "6",
+    "duration": "4",
+    "title": "ECMAScript Programming: The Next Generation JavaScript",
+    "description": "The 6th and 7th releases of ECMAScript, also known as ES2015 and ES2016, extend the features of JavaScript making it a more powerful and efficient language for enterprise development. JavaScript is the standard language for browser-based development, and is increasingly being used at the server for business processing using Node.js. This course covers the new features added to JavaScript in the latest versions, ECMAScript 2015 and ECMAScript 2016. The course also teaches developers to utilize common tools and frameworks for package management, transpiling, deployment, testing, and application development.",
+    "events": []
+  },
+  {
+    "courseId": "7",
+    "duration": "2",
+    "title": "Introduction to Angular",
+    "description": "Build responsive, enterprise-strength applications with this Angular training course. Angular provides a robust framework that facilitates the development of richly interactive applications running on multiple platforms. In this course, you gain practical experience building a complete Angular application.",
+    "events": []
+  },
+  {
+    "courseId": "8",
+    "duration": "1",
+    "title": "Advanced AngularJS",
+    "description": "AngularJS is a modern JavaScript framework which makes it easy to build interactive web-based functionality that runs in desktop and mobile browsers. This course teaches you how to get started with the AngularJS Model View Controller (MVC) architecture and dependency injection functionality. You also learn how to connect to back-end REST services, and leverage routing to create a dynamic UI.",
+    "events": []
+  }
+]
